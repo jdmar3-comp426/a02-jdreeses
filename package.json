@@ -1,0 +1,19 @@
+{
+  "name": "a02-jdreeses",
+  "version": "1.0.0",
+  "description": "A02",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdmar3-comp426/a02-jdreeses.git"
+  },
+  "author": "",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/jdmar3-comp426/a02-jdreeses/issues"
+  },
+  "homepage": "https://github.com/jdmar3-comp426/a02-jdreeses#readme"
+}
