@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jdmar3-comp426/a02-jdreeses/issues"
   },
-  "homepage": "https://github.com/jdmar3-comp426/a02-jdreeses#readme"
+  "homepage": "https://github.com/jdmar3-comp426/a02-jdreeses#readme",
+  "dependencies": {
+    "bulma": "^0.9.3"
+  }
 }
